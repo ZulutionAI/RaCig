@@ -2,7 +2,7 @@
 <h1>RaCig: A RAG-based Character-Consistent Story Image Generation Model</h1>
 
 <a href='https://huggingface.co/ZuluVision/RaCig'><img src='https://img.shields.io/badge/🤗%20Hugging%20Face-Model-blue'></a>
-<a href='https://pan.baidu.com/s/1Vt2meAg5DkjUXktY_H6eNg?pwd=ympj'><img src='https://img.shields.io/badge/Baidu_Netdisk-Dataset-green?logo=baidu'></a>
+<a href='https://huggingface.co/datasets/ZuluVision/RaCig-Data'><img src='https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-green'></a>
 </div>
 
 ### 1. Multi-charater image generation with rich motion
@@ -64,7 +64,7 @@ The pipeline can handle multiple characters ("Characters") in a single scene, de
         └── dreamshaper.safetensors
     ```
 
-    Retrieval datasets: https://pan.baidu.com/s/1Vt2meAg5DkjUXktY_H6eNg?pwd=ympj
+    Retrieval datasets: https://huggingface.co/datasets/ZuluVision/RaCig-Data
 
     ```
     ./data
