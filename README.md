@@ -1,7 +1,7 @@
 <div align="center">
 <h1>RaCig: A RAG-based Character-Consistent Story Image Generation Model</h1>
 
-<a href='https://huggingface.co/xilanhua12138/RaCig'><img src='https://img.shields.io/badge/🤗%20Hugging%20Face-Model-blue'></a>
+<a href='https://huggingface.co/ZuluVision/RaCig'><img src='https://img.shields.io/badge/🤗%20Hugging%20Face-Model-blue'></a>
 <a href='https://pan.baidu.com/s/1Vt2meAg5DkjUXktY_H6eNg?pwd=ympj'><img src='https://img.shields.io/badge/Baidu_Netdisk-Dataset-green?logo=baidu'></a>
 </div>
 
@@ -32,7 +32,7 @@ The pipeline can handle multiple characters ("Characters") in a single scene, de
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/xilanhua12138/RaCig.git 
+    git clone https://github.com/ZulutionAI/RaCig
     cd RaCig
     ```
 
@@ -43,7 +43,7 @@ The pipeline can handle multiple characters ("Characters") in a single scene, de
 
 3.  **Download necessary models and retrieval datasets:**
     
-    Models: https://huggingface.co/xilanhua12138/RaCig
+    Models: https://huggingface.co/ZuluVision/RaCig
 
     Put the models under checkpoint as follow:
     
