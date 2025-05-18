@@ -1,8 +1,11 @@
 <div align="center">
 <h1>RaCig: A RAG-based Character-Consistent Story Image Generation Model</h1>
 
+<a href='https://github.com/ZulutionAI/RaCig'><img src='https://img.shields.io/badge/GitHub-ZulutionAI-red?logo=github'></a>
 <a href='https://huggingface.co/ZuluVision/RaCig'><img src='https://img.shields.io/badge/🤗%20Hugging%20Face-Model-blue'></a>
 <a href='https://huggingface.co/datasets/ZuluVision/RaCig-Data'><img src='https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-green'></a>
+<a href='https://github.com/ZulutionAI/RaCig/stargazers'><img src='https://img.shields.io/github/stars/ZulutionAI/RaCig?style=social'></a>
+
 </div>
 
 ### 1. Multi-charater image generation with rich motion
@@ -32,7 +35,7 @@ The pipeline can handle multiple characters ("Characters") in a single scene, de
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/ZulutionAI/RaCig
+    git clone https://github.com/ZulutionAI/RaCig.git
     cd RaCig
     ```
 
